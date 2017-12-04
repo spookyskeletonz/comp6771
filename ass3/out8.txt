@@ -1,0 +1,49 @@
+original graph
+a
+d
+c
+b
+Edges attached to Node a
+(null)
+original graph after delete
+a
+d
+c
+b
+Edges attached to Node b
+a 3
+d 4
+a 5
+copied graph after delete in other graph
+a
+d
+c
+b
+Edges attached to Node b
+a 3
+d 4
+a 5
+copied graph after other graph is deleted
+a
+d
+c
+b
+original graph
+a
+d
+c
+b
+Edges attached to Node b
+a 3
+d 4
+a 5
+moved-from graph (expected to be empty)
+moved-to graph
+a
+d
+c
+b
+Edges attached to Node b
+a 3
+d 4
+a 5
